@@ -1,0 +1,11 @@
+{
+  "author" : "thakyZ",
+  "description" : "More hair for dem cat grills and bois\n\nPretty self explanitory when it's just the Ningen hair styles with Neko ears.",
+  "friendlyName" : "NekoMoreHair",
+  "link" : "steam://url/CommunityFilePage/945265827",
+  "name" : "NekoMoreHair",
+  "includes" : ["Neko Alternate"],
+  "steamContentId" : "945265827",
+  "version" : "1.0.1",
+  "priority": 99999999999
+}
