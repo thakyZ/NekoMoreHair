@@ -6,6 +6,5 @@
   "name" : "NekoMoreHair",
   "includes" : ["Neko Alternate"],
   "steamContentId" : "945265827",
-  "version" : "1.0.1",
-  "priority": 99999999999
+  "version" : "1.0.2"
 }
