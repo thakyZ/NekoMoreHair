@@ -1,10 +1,11 @@
 {
-  "version" : "1.0.3",
   "author" : "thakyZ",
   "description" : "^#EA9931;More hair for dem cat grills and bois.^#FFFFFF;\n\nPretty self explanatory. It's just the Ningen hair styles with neko ears.\n\n^#A451C4;Github:^#FFFFFF; ^#9BBA3D;https://github.com/thakyZ/NekoMoreHair^#FFFFFF;\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/neko-more-hair.5559/^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=945265827^#FFFFFF;\n\nThis mod Required the Neko Alternate mod by Cat2002.\n^#A451C4;Neko Alternate:^#FFFFFF;\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/neko-alternate.5159/^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=1109772923^#FFFFFF;",
+  "friendlyName" : "NekoMoreHair",
+  "includes" : ["Neko Alternate"],
+  "link" : "steam://url/CommunityFilePage/945265827",
   "name" : "NekoMoreHair",
   "steamContentId" : "945265827",
-  "friendlyName" : "NekoMoreHair",
-  "link" : "steam://url/CommunityFilePage/945265827",
-  "includes" : ["Neko Alternate"]
+  "tags" : "Character Improvements",
+  "version" : "1.0.3"
 }
