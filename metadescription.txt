@@ -6,7 +6,7 @@ Pretty self explanatory. It's just the Ningen hair styles with neko ears.
 ^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/neko-more-hair.5559/^#FFFFFF;
 ^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=945265827^#FFFFFF;
 
-This mod Required the Neko Alternate mod by Cat2002.
+This mod requires the Neko Alternate mod by Cat2002.
 ^#A451C4;Neko Alternate:^#FFFFFF;
 ^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/neko-alternate.5159/^#FFFFFF;
 ^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=1109772923^#FFFFFF;

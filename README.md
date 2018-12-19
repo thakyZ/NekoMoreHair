@@ -11,5 +11,5 @@ Images Coming Soon
 **Chucklefish Forums:** https://community.playstarbound.com/resources/neko-alternate.5159/  
 **Steam:** https://steamcommunity.com/sharedfiles/filedetails/?id=945265827
 
-This mod Required the Neko Alternate mod by Cat2002.   
+This mod requires the Neko Alternate mod by Cat2002.   
 Neko Alternate: [Chucklefish Forums](https://community.playstarbound.com/resources/neko-alternate.5159/) [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1109772923)
