@@ -1,507 +1,103 @@
 [
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu01"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu02"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu03"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu04"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu05"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu06"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu07"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu08"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu09"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu10"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu11"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu12"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu13"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu14"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu15"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu16"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu17"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu18"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu19"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu20"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu21"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu22"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu23"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu24"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu25"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu26"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu27"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu28"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu29"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu30"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu31"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu32"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu32"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu33"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu34"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu35"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu36"
-  },
-  {
-    "op": "add",
-    "path": "/genders/0/hair/-",
-    "value": "nekoosu37"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu01"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu02"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu03"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu04"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu05"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu06"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu07"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu08"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu09"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu10"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu11"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu12"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu13"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu14"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu15"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu16"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu17"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu18"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu19"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu20"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu21"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu22"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu23"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu24"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu25"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu26"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu27"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu28"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu29"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu30"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu31"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu32"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu32"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu33"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu34"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu35"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu36"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu37"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu38"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu39"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu40"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu41"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu42"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu43"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu44"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu45"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu46"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu47"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu48"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu49"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu50"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu51"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu52"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu53"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu54"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu55"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu56"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu57"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu58"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu59"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu60"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu61"
-  },
-  {
-    "op": "add",
-    "path": "/genders/1/hair/-",
-    "value": "nekomesu62"
-  }
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu01" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu02" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu03" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu04" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu05" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu06" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu07" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu08" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu09" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu10" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu11" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu12" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu13" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu14" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu15" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu16" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu17" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu18" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu19" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu20" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu21" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu22" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu23" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu24" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu25" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu26" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu27" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu28" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu29" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu30" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu31" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu32" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu32" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu33" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu34" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu35" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu36" },
+  { "op": "add", "path": "/genders/0/hair/-", "value": "nekoosu37" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu01" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu02" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu03" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu04" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu05" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu06" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu07" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu08" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu09" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu10" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu11" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu12" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu13" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu14" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu15" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu16" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu17" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu18" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu19" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu20" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu21" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu22" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu23" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu24" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu25" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu26" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu27" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu28" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu29" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu30" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu31" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu32" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu32" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu33" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu34" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu35" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu36" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu37" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu38" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu39" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu40" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu41" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu42" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu43" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu44" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu45" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu46" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu47" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu48" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu49" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu50" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu51" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu52" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu53" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu54" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu55" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu56" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu57" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu58" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu59" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu60" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu61" },
+  { "op": "add", "path": "/genders/1/hair/-", "value": "nekomesu62" }
 ]
