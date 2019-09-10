@@ -2,8 +2,8 @@
 
 Pretty self explanatory. It's just the Ningen hair styles with neko ears.
 
-[IMG]https://raw.githubusercontent.com/thakyZ/NekoMoreHair/media/img0.png[/IMG]
-[IMG]https://raw.githubusercontent.com/thakyZ/NekoMoreHair/media/img1.png[/IMG]
+[IMG]https://raw.githubusercontent.com/thakyZ/NekoMoreHair/media/img0.short.png[/IMG]
+[IMG]https://raw.githubusercontent.com/thakyZ/NekoMoreHair/media/img1.short.png[/IMG]
 
 [B]Github:[/B] [URL]https://github.com/thakyZ/NekoMoreHair[/URL]
 [B]Steam Workshop:[/B] [URL]https://steamcommunity.com/sharedfiles/filedetails/?id=945265827[/URL]
