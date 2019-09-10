@@ -4,9 +4,8 @@
 
 Pretty self explanatory. It's just the Ningen hair styles with neko ears.
 
-```
-Images Coming Soon
-```
+![Female Hairs](https://raw.githubusercontent.com/thakyZ/NekoMoreHair/media/img0.png)
+![Male Hairs](https://raw.githubusercontent.com/thakyZ/NekoMoreHair/media/img1.png)
 
 **Chucklefish Forums:** https://community.playstarbound.com/resources/neko-alternate.5159/  
 **Steam:** https://steamcommunity.com/sharedfiles/filedetails/?id=945265827
